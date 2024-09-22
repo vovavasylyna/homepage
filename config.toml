@@ -1,0 +1,39 @@
+baseURL = "https://drewdevault.com/"
+title = "Volodymyr Vasylyna's blog"
+pygmentsUseClasses = true
+uglyurls = true
+disablePathToLower = true
+rssLimit = 10
+
+[permalinks]
+blog = "/blog/:filename"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+ordered = true
+
+[mediaTypes]
+[mediaTypes."text/gemini"]
+suffixes = ["gmi"]
+
+[outputFormats]
+[outputFormats.Gemini]
+name = "GEMTEXT"
+isPlainText = true
+isHTML = false
+mediaType = "text/gemini"
+protocol = "gemini://"
+permalinkable = true
+path = "gemini/"
+
+[outputFormats.GEMRSS]
+name = "GEMRSS"
+isHTML = false
+mediaType = "application/rss+xml"
+protocol = "gemini://"
+path = "gemini/"
+
+[outputs]
+section = ["HTML", "RSS", "GEMRSS"]
