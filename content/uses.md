@@ -1,3 +1,5 @@
+[Back to Homepage](/)
+
 # Things I Use
 
 This page contains a somewhat up-to-date listing of all hardware and software that I currently use. Seeing similar pages on other people's personal websites have proved to be interesting to me, so I figured I would do the same!
