@@ -1,6 +1,10 @@
-[Back to Homepage](/)
+---
+title: "Books I Read"
+unsafe: true
+draft: false
+---
 
-# Books I read
+[Back to Homepage](/)
 
 ## 2024
 
