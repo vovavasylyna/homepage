@@ -10,9 +10,10 @@ This page contains a somewhat up-to-date listing of all hardware and software th
 |-------|--------------|
 |[Google One](https://one.google.com/)<br>2 TB|~$10|
 |[Youtube Premium](https://nearlyfreespeech.net)<br>Family membership|~$4|
-|[Cloudflare Registrar](https://www.cloudflare.com/)<br>Renewal fees for 2 domains|~$2|
 |[Netflix](https://netflix.com/)<br>Part of a family membership|~$2|
 |[Megogo](https://megogo.net/)<br>Max|~$5|
+|[Cloudflare Registrar](https://www.cloudflare.com/)<br>Renewal fees for 2 domains|~$2|
+|[Github Pages](https://pages.github.com/)<br>Hosting|$0|
 
 ## Work Laptop
 
