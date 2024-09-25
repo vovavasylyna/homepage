@@ -29,6 +29,9 @@ Disconnecting from a gas network and removing a gas pipe and a gas heater
 **Apr 2, 2024**<br> 
 Removing parquet flooring
 
+**Apr 16, 2024**<br> 
+Most of bathroom furniture is ordered and delivered
+
 **Apr 26, 2024**<br> 
 Preparing old parquet for transportation to storage while the apartment is under renovation. The plan is to restore the it and install it back
 
@@ -43,7 +46,7 @@ Demolition and removal phase completed
 Interior design project completed
 
 **Aug 30, 2024**<br> 
-Imagicasa, a Belgian interior magazine, [published](https://imagicasa.be/en/story/wabi-sabi-in-a-stalinka-flat) an article abour our design project.
+Imagicasa, a Belgian interior magazine, [published](https://imagicasa.be/en/story/wabi-sabi-in-a-stalinka-flat) an article about our design project.
 
 ![imagicasa article](/imagicasa.png)
 
