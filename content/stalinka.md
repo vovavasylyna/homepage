@@ -33,7 +33,7 @@ Removing parquet flooring
 Most of bathroom furniture is ordered and delivered
 
 **Apr 26, 2024**<br> 
-Preparing old parquet for transportation to storage while the apartment is under renovation. The plan is to restore the it and install it back
+Preparing old parquet for transportation to storage while the apartment is under renovation. The plan is to restore and install it back
 
 ![parquet](/parquet.jpg)
 
