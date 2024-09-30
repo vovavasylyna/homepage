@@ -54,3 +54,6 @@ Imagicasa, a Belgian interior magazine, [published](https://imagicasa.be/en/stor
 Replacing old heating radiators and pipes with the new ones
 
 ![heating](/heating.jpg)
+
+**Sep 27, 2024**<br> 
+Leveling the floor using expanded polystyrene concrete and applying a semi-dry screed
